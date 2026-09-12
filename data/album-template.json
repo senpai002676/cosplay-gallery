@@ -1,0 +1,12 @@
+{
+  "id": "unique-album-id",
+  "title": "Album Title",
+  "coser": "Coser Name",
+  "character": "Character Name",
+  "series": "Anime / Game / Series",
+  "description": "Write the full album description here.",
+  "photos": 0,
+  "cover": "https://example.com/cover.jpg",
+  "date": "2026-09-12",
+  "images": ["https://example.com/photo-1.jpg", "https://example.com/photo-2.jpg"]
+}
