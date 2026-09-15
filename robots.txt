@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://small-bar-3d55.cosplayhub01.workers.dev/sitemap.xml
